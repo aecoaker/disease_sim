@@ -1,1 +1,1 @@
-# disease_sim
+# Disease Simulation using Classes in Python
